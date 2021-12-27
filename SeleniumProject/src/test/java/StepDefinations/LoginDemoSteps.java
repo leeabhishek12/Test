@@ -33,7 +33,7 @@ public class LoginDemoSteps {
 	public void user_is_on_login_page() {
 	   
 	driver.navigate().to("https://example.testproject.io/web/");
-	System.out.println("On Login Page");
+	
 	}
 	
 	
